@@ -1,0 +1,24 @@
+{
+  "name": "chevy",
+  "version": "0.1.0",
+  "description": "Easy to use above-the-fold CSS extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onebytelabs/chevy.git"
+  },
+  "keywords": [
+    "css",
+    "above-the-fold",
+    "style"
+  ],
+  "author": "Alfiana Sibuea <alfian.sibuea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onebytelabs/chevy/issues"
+  },
+  "homepage": "https://github.com/onebytelabs/chevy"
+}
