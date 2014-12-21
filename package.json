@@ -1,5 +1,5 @@
 {
-  "name": "chevy",
+  "name": "skycss",
   "version": "0.1.0",
   "description": "Easy to use above-the-fold CSS extractor",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onebytelabs/chevy.git"
+    "url": "https://github.com/onebytelabs/skycss.git"
   },
   "keywords": [
     "css",
@@ -18,7 +18,7 @@
   "author": "Alfiana Sibuea <alfian.sibuea@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onebytelabs/chevy/issues"
+    "url": "https://github.com/onebytelabs/skycss/issues"
   },
-  "homepage": "https://github.com/onebytelabs/chevy"
+  "homepage": "https://github.com/onebytelabs/skycss"
 }
