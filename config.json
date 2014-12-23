@@ -1,0 +1,8 @@
+{
+    urls: [],
+    viewport: {
+        width: 1280,
+        height: 800
+    },
+    useragent: 'SkyCSS Generator'
+}
